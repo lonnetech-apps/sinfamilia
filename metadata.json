@@ -1,0 +1,6 @@
+{
+  "name": "FinFamília - Controle Financeiro Pessoal & Familiar",
+  "description": "Controle financeiro pessoal e familiar com gráficos intuitivos, análise de tendências de categorias, velocidade de queima de orçamento e recomendações de economia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
